@@ -1,0 +1,5 @@
+com\example\parserKirianov\model\Info.class
+com\example\parserKirianov\controller\MainController.class
+com\example\parserKirianov\servises\ExcelGeneration.class
+com\example\parserKirianov\ParserKirianovApplication.class
+com\example\parserKirianov\servises\WebsiteParser.class
